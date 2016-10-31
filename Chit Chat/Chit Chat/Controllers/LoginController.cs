@@ -22,5 +22,6 @@ namespace Chit_Chat.Controllers
         {
             return View();
         }
+      
 	}
 }
